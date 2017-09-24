@@ -1,5 +1,5 @@
 # docker-elasticsearch
-Elasticsearch for Docker
+Elasticsearch for Docker on Alpine
 
 ## Elasticsearch Master 5.6
 
